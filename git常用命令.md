@@ -101,8 +101,8 @@ $ git tag -d 标签名称  //删除标签名
 # 八. 远程仓库操作
 
 ```
-$ git push orign  //推送到远程仓库
+$ git push origin  //推送到远程仓库
 
-$ git pull orign  //将远程仓库拉取到本地仓库
+$ git pull origin  //将远程仓库拉取到本地仓库
 ```
 
